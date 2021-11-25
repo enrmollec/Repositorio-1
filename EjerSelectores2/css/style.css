@@ -1,0 +1,36 @@
+#grande {
+    color: green;
+}
+
+strong {
+    color: orange;
+}
+
+#id1 {
+    color: orange;
+}
+
+#li1 {
+    color: rgb(243, 111, 133);
+}
+
+#td1 {
+    color: blue;
+}
+
+#td2 {
+    color: purple;
+}
+
+label {
+    color: crimson;
+}
+
+#a1 {
+    color: cyan;
+}
+
+body {
+    border: 2px black solid;
+    width: 500px;
+}
