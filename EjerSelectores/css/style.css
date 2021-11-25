@@ -1,0 +1,22 @@
+a {
+    color: crimson;
+}
+
+.especial {
+    background: black;
+    color: yellow;
+}
+
+#span1 {
+    color: grey;
+    font-weight: bold;
+}
+
+#em1 {
+    color: blue;
+    background: rgb(248, 196, 176);
+}
+
+#p1 {
+    color: rgb(111, 111, 238);
+}
