@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		"$primary-color:#fd2121;\r\n$secondary-color:#ffffff;\r\n$color:#000000;\r\n\r\nbody {\r\n    background-color: rgb(206, 204, 204);\r\n    text-align: center;\r\n}\r\n\r\nheader {\r\n    color: $primary-color;\r\n    font-family: Arial, Helvetica, sans-serif;\r\n}\r\n\r\nul{\r\n    font-family: Arial, Helvetica, sans-serif;\r\n    padding-right: 30px;\r\n    li {\r\n        color: $secondary-color;\r\n        display: inline;\r\n        padding: 10px;\r\n        a{\r\n            color:$color;\r\n            text-decoration: none;\r\n        }\r\n    }\r\n}\r\n\r\n"
+	],
+	"names": [],
+	"mappings": ";AAIA,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,OAAkB;EACpC,UAAU,EAAE,MAAM;CACrB;;;AAED,AAAA,MAAM,CAAC;EACH,KAAK,EAVM,OAAO;EAWlB,WAAW,EAAE,4BAA4B;CAC5C;;;AAED,AAAA,EAAE,CAAA;EACE,WAAW,EAAE,4BAA4B;EACzC,aAAa,EAAE,IAAI;CAUtB;;;AAZD,AAGI,EAHF,CAGE,EAAE,CAAC;EACC,KAAK,EAjBI,OAAO;EAkBhB,OAAO,EAAE,MAAM;EACf,OAAO,EAAE,IAAI;CAKhB;;;AAXL,AAOQ,EAPN,CAGE,EAAE,CAIE,CAAC,CAAA;EACG,KAAK,EApBV,OAAO;EAqBF,eAAe,EAAE,IAAI;CACxB"
+}

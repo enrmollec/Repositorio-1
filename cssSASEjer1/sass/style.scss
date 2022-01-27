@@ -1,0 +1,28 @@
+$primary-color:#fd2121;
+$secondary-color:#ffffff;
+$color:#000000;
+
+body {
+    background-color: rgb(206, 204, 204);
+    text-align: center;
+}
+
+header {
+    color: $primary-color;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 30px;
+    li {
+        color: $secondary-color;
+        display: inline;
+        padding: 10px;
+        a{
+            color:$color;
+            text-decoration: none;
+        }
+    }
+}
+
